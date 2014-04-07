@@ -154,7 +154,74 @@ module.exports = {
           description: "Lean Startup é a forma prática de implementar um produto ou serviço, desde o nascimento da ideia até seu lançamento. As Lean Startups digitais são normalmente projetos que necessitam validar se a oportunidade de negócio é realmente rentável e definir o modelo de negócios que será explorado. Após estas etapas, deixa de ser uma Lean Startup e se transforma em uma empresa com um modelo de negócios operante.",
           time: "20h00"
         }
-      }
+      },
+      {
+        name: "Gabriel Engel",
+        photo: "speakers/gabrielengel_256x256.png",
+        bio: "Programador desde a era do Apple ][, formado em Administração, meio-pós-graduado em Gestão de Tecnologia. Co-fundador da Fande, Real Intercâmbio, Real Seguro Viagem, Assegura.me e por aí vai. Ainda que empreendedor, entusiasta da filosofia open-source e devoto a melhorar a qualidade de vida daqueles que estiverem por perto - principalmente através da educação.",
+        company: "Real Seguro Viagem",
+        link: {
+          href: "https://twitter.com/gabrielengel",
+          text: "@gabrielengel"
+        },
+        presentation: {
+          title: "Empreendedorismo: amor e lucro!",
+          description: "Por senso comum, as pessoas entendem que ou você faz o que ama ou ganha dinheiro. Numa breve apresentação autobiográfica gostaria de explicar como é possível conciliar ambições artísticas e pessoais com as ambições financeiras. Também quero expor algumas das preocupações que acredito que novos empreendedores devam ter em mente antes de formar um negócio; e como agir durante o crescimento do empreendimento e um pequeno toque sobre a hora de sair.",
+          time: "20h00"
+        }
+      },
+      {
+        name: "Guilherme Mar",
+        photo: "speakers/guilhermemar_240x240.jpg",
+        bio: "Analista de sistemas no Terra Networks em Porto Alegre, bacharel em Ciência da Computação recém formado pela ULBRA Canoas, desenvolvedor web e entusiasta Software Livre há anos, já palestrou no FISL e vários Fóruns Tchêlinux, sendo neste segundo um dos responsáveis pelo Fórum de Porto Alegre. É fã do Guia dos Mochileiros das Galáxias e Sherlock Holmes.",
+        link: {
+          href: "https://twitter.com/guilhermemar",
+          text: "@guilhermemar"
+        },
+        presentation: {
+          title: "GNU/Linux, Software Livre e tudo mais",
+          description: "Uma apresentação sobre o Mundo Software Livre: licenças, sistemas operacionais (GNU/Linux, Unix), interfaces gráficas, programas, instalação e comunidades. Descubra ainda as formas de ganhar dinheiro usando Software Livre.",
+          time: "10h30"
+        }
+      },
+      {
+        name: "Guilherme Mar",
+        photo: "speakers/guilhermemar_240x240.jpg",
+        bio: "",
+        link: {
+          href: "https://twitter.com/guilhermemar",
+          text: "@guilhermemar"
+        },
+        presentation: {
+          title: "JavaScript!",
+          description: "Aprendendo JavaScript do melhor modo, programando. Irá se ver JavaScript de acordo com o nível da galera, podendo ser o básico até o avançado, só depende do público.",
+          time: "13h00"
+        }
+      },
+      {
+        name: "Joao Mossmann",
+        photo: "speakers/joaomossmann_160x160.jpg",
+        bio: "Doutorando e membro do grupo de Pesquisa em Tecnologia Aplicada à Educação da UFRGS, Mestre em Ciência da Computação pela PUCRS – na linha de Realidade Virtual, Bacharel em Ciência da Computação pela Universidade Feevale.  Atua como docente nos cursos de Ciência da Computação e do Curso Superior de Tecnologia em Jogos Digitais. Tem experiência profissional na área de Ciência da Computação e desenvolvimento de Jogos Digitais. Na pesquisa científica, têm como principal objeto de estudo o desenvolvimento de Jogos Digitais e sua aplicação em diferentes contextos.",
+        presentation: {
+          title: "Laboratório de visualização e MoCap - aplicações, desafios e oportunidades. ",
+          description: "Apresentar o novo laboratório visualização e captura de movimento constituído na Universidade Feevale . O laboratório conta com recursos para estereoscopia e captura de movimento. Em seguida, será demonstrado os resultados dos primeiros experimentos, bem com os desafios e oportunidades para os acadêmicos da computação.",
+          time: "19h30"
+        }
+      },
+      {
+        name: "Juliano Fagundes",
+        photo: "speakers/julianofagundes_500x500.jpg",
+        bio: "Formado em Publicidade e Propaganda. Especialista em Comunicação Digital. Há 12 anos no mercado digital, planejei e criei para marcas líderes como Rio 2016, L'Oreal, TAM e Toyota. Atualmente, Diretor de Criação na Brivia, trabalhando para Braskem, Cetip, Midea Carrier, Ramarim, Weber Saint-Gobain e Vivo.",
+        link: {
+          href: "https://twitter.com/julianofagundes",
+          text: "@julianofagundes"
+        },
+        presentation: {
+          title: "Marcas em busca de uma causa: como chegar lá",
+          description: "Num contexto de muitos meios e promessas para o consumidor, prevalecem as marcas com as quais nos identificamos. Mas chegar lá? Por onde começar?Vamos esclarecer o assunto através de uma abordagem prática sobre a busca pela verdade da marcas. O que é causa? Qual a importância para as marcas? Como fazer acontecer no dia a dia?",
+          time: "19h00"
+        }
+      },
     ],
 
     // List of Sponsors
