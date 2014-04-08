@@ -96,6 +96,21 @@ module.exports = {
                     }
                 },
                 {
+                    name: "Douglas Hermann",
+                    photo: "speakers/douglashermann_200x200.jpg",
+                    bio: "Desenvolve software desde de 2000 – atualmente trabalha com iOS e ABAP na SAP.",
+                    company: "SAP",
+                    link: {
+                        href: "https://twitter.com/douglashermann",
+                        text: "@douglashermann"
+                    },
+                    presentation: {
+                        title: "Quem não se comunica, se estrumbica! - Fale oData",
+                        description: "Desenvolve software desde de 2000 – atualmente trabalha com iOS e ABAP na SAP.",
+                        time: "10h00"
+                    }
+                },
+                {
                     name: "Guilherme Mar",
                     photo: "speakers/guilhermemar_240x240.jpg",
                     bio: "Analista de sistemas no Terra Networks em Porto Alegre, bacharel em Ciência da Computação recém formado pela ULBRA Canoas, desenvolvedor web e entusiasta Software Livre há anos, já palestrou no FISL e vários Fóruns Tchêlinux, sendo neste segundo um dos responsáveis pelo Fórum de Porto Alegre. É fã do Guia dos Mochileiros das Galáxias e Sherlock Holmes.",
@@ -290,6 +305,21 @@ module.exports = {
                     }
                 },
                 {
+                    name: "André Muller",
+                    photo: "speakers/andremuller_199x199.jpg",
+                    bio: "Arquiteto de Software. Responsável técnico pelo maior produto HANA desenvolvido hoje no Brasil.",
+                    company: "SAP",
+                    link: {
+                        href: "http://scn.sap.com/people/andre.muller",
+                        text: "@andre.muller"
+                    },
+                    presentation: {
+                        title: "In Memory: alguém mexeu nas minhas camadas de desenvolvimento!",
+                        description: "In memory database computing: como isso muda a forma de fazer software.",
+                        time: "19h30"
+                    }
+                },
+                {
                     name: "Fabiano Nadler",
                     photo: "speakers/fabianonadler_320x320.jpg",
                     bio: "Experience Design Leader na Brivia - Formado em Publicidade e Propaganda pela UFRGS e com MBA em Marketing pela ESPM. Trabalha como Experience Design Leader na Brivia. Foi responsável pela coordenação do trabalho de experience design de projetos para empresas como Petrobras, Gerdau, Terra, Unimed, Vivo, AES Brasil, Unisinos, Braskem, Embraco, Sicredi entre outros.",
@@ -395,6 +425,21 @@ module.exports = {
                     }
                 },
                 {
+                    name: "Matias Schertel",
+                    photo: "speakers/matiasschertel_199x199.jpg",
+                    bio: "Desenvolvedor no SAP Labs Latin America desde 2010, é também mentor de Design Thinking. Constantemente engajado em projetos de inovação com o uso das mais diversas metodologias e tecnologias. E apesar de não conseguir chutar uma bola reto esta sempre pronto para aprender algo novo.",
+                    company: "SAP",
+                    link: {
+                        href: "http://schertel.co/",
+                        text: "schertel.co"
+                    },
+                    presentation: {
+                        title: "Schertel openUI5 - O que é? Onde vivem? Do que se alimentam?",
+                        description: "O HTML5 é o resultado de mais de 20 anos de evolução do HTML, com a sua popularização e amplo suporte a APIs de para conteúdo “rico” têm sido utilizado cada vez mais em conjunto com java-script na criação de web applications. O openUI5 é um framework JS+HTML5 que facilita a criação de web application que rodam nativamente nos browser mais modernos e tem comportamento responsivo, funcionando desde um celular a um desktop. Nessa palestra teremos uma introdução ao openUI5, desde as evoluções que formam sua base tecnológica, onde encontra-lo e como utiliza-lo.",
+                        time: "19h30"
+                    }
+                },
+                {
                     name: "Fernando Faganello Madeira",
                     photo: "speakers/fernandomadeira_848x960.jpg",
                     bio: "Gerente de Projetos da Kenta e co-Founder da Quefo.me.",
@@ -422,6 +467,36 @@ module.exports = {
                         title: "Empreendedorismo: amor e lucro!",
                         description: "Por senso comum, as pessoas entendem que ou você faz o que ama ou ganha dinheiro. Numa breve apresentação autobiográfica gostaria de explicar como é possível conciliar ambições artísticas e pessoais com as ambições financeiras. Também quero expor algumas das preocupações que acredito que novos empreendedores devam ter em mente antes de formar um negócio; e como agir durante o crescimento do empreendimento e um pequeno toque sobre a hora de sair.",
                         time: "20h00"
+                    }
+                },
+                {
+                    name: "Claudio Ramos",
+                    photo: "speakers/claudioramos_150x160.jpg",
+                    bio: "Desenvolvedor de software (praticante agile desde 2011).",
+                    company: "SAP",
+                    link: {
+                        href: "http://scn.sap.com/people/claudio.ramos",
+                        text: "@claudio.ramos"
+                    },
+                    presentation: {
+                        title: "Seja um desenvolvedor ÁGIL",
+                        description: "Conheça as metodologias de desenvolvimento Agile aplicadas a ambiente de produção.",
+                        time: "20h30"
+                    }
+                },
+                {
+                    name: "Leonardo Zanetti",
+                    photo: "speakers/leonardozanetti_200x200.jpg",
+                    bio: "Especialista em desenvolvimento mobile e em computação na nuvem.",
+                    company: "SAP",
+                    link: {
+                        href: "http://scn.sap.com/people/leonardo.zanetti/",
+                        text: "@leonardo.zanetti"
+                    },
+                    presentation: {
+                        title: "Plataforma nas nuvens, consigo programar desconectado?",
+                        description: "Saiba o que é e como utilizar a plataforma cloud da SAP para criar aplicações.",
+                        time: "20h30"
                     }
                 },
                 {
@@ -462,17 +537,17 @@ module.exports = {
     sponsors: [
       {
         name: "GitHub",
-        logo: "sponsors/github_600x400.jpg",
+        logo: "sponsors/github_150x150.jpg",
         url: "https://github.com"
       },
       {
         name: "Caelum",
-        logo: "sponsors/caelum_640x200.png",
+        logo: "sponsors/caelum_150x150.png",
         url: "http://www.caelum.com.br"
       },
       {
         name: "Casa do Código",
-        logo: "sponsors/casadocodigo_600x175.png",
+        logo: "sponsors/casadocodigo_150x150.jpg",
         url: "http://www.casadocodigo.com.br"
       },
       {
@@ -482,7 +557,7 @@ module.exports = {
       },
       {
         name: "Brivia",
-        logo: "sponsors/brivia_2646x1482.jpg",
+        logo: "sponsors/brivia_150x150.png",
         url: "http://www.brivia.com.br"
       },
       {
@@ -492,7 +567,7 @@ module.exports = {
       },
       {
         name: "QueFo.me",
-        logo: "sponsors/quefome_1800x1350.png",
+        logo: "sponsors/quefome_150x150.jpg",
         url: "http://quefo.me"
       },
       {
@@ -501,8 +576,13 @@ module.exports = {
         url: "http://getupcloud.com"
       },
       {
+        name: "SAP",
+        logo: "sponsors/sap_150x150.png",
+        url: "http://www.sap.com/brazil/index.html"
+      },
+      {
         name: "ThoughtWorks",
-        logo: "sponsors/thoughtworks_1198x333.jpg",
+        logo: "sponsors/thoughtworks_150x150.jpg",
         url: "http://www.thoughtworks.com/pt/"
       }
     ],
