@@ -22,7 +22,7 @@ module.exports = {
     // If you don't want this, just remove the callToAction property.
     callToAction: {
         text: "Clique aqui para se inscrever!",
-        link: "http://www.feevale.br/semanaicet"
+        link: "http://aplicweb.feevale.br/gerenciadorextensao/cursos.asp?codcurso=4320&TemplateDiferenciado=Site"
     },
 
     // "Fork me on GitHub", if you don't want this, just remove the forkButton property
@@ -173,6 +173,7 @@ module.exports = {
                     name: "Guilherme Mar",
                     photo: "speakers/guilhermemar_240x240.jpg",
                     bio: "Analista de sistemas no Terra Networks em Porto Alegre, bacharel em Ciência da Computação recém formado pela ULBRA Canoas, desenvolvedor web e entusiasta Software Livre há anos, já palestrou no FISL e vários Fóruns Tchêlinux, sendo neste segundo um dos responsáveis pelo Fórum de Porto Alegre. É fã do Guia dos Mochileiros das Galáxias e Sherlock Holmes.",
+                    company: "Terra",
                     link: {
                         href: "https://twitter.com/guilhermemar",
                         text: "@guilhermemar"
@@ -216,12 +217,13 @@ module.exports = {
             ]
         },
         {
-            day: "Quarta, 15 de abril",
+            day: "Terça, 15 de abril",
             schedule: [
                 {
                     name: "Ânderson Schuh",
                     photo: "speakers/andersonschuh_313x378.jpg",
                     bio: "Bacharel em Ciência da Computação pela Univerdade Feevale. Atualmente pesquisa sobre Interfaces Cérebro-Computador.",
+                    company: "Feevale",
                     presentation: {
                         title: "Desmistificando Interface Cérebro-Computador: Controlando uma cadeira de rodas com o piscar dos olhos",
                         description: "Na primeira parte da oficina, será apresentado uma visão geral da área de Interface Cérebro-Computador, além de apresentar o projeto: BLINK – Um simulador de cadeira de rodas em ambiente 3D controlado por Interface Cérebro-Computador não invasiva. Após, será realizado uma prática utilizando Unity3D e o Neurosky Mindwave.",
@@ -303,6 +305,21 @@ module.exports = {
                     }
                 },
                 {
+                    name: "Guillermo Hess",
+                    photo: "speakers/guillermohess_130x130.jpg",
+                    bio: "Doutor em ciência da computação (2008) pela UFRGS. Professor da Universidade Feevale nos cursos de graduação e pós-graduação relacionados com informática e computação. Sócio da empresa ionatec, parceira oficial da Amazon Web Services, com forte atuação na área de cloud computing.",
+                    company: "ionatec",
+                    link: {
+                        href: "http://www.ionatec.com.br/author/ghess/",
+                        text: "@ghess"
+                    },
+                    presentation: {
+                        title: "Como a nuvem pode ajudar no lançamento de novos produtos",
+                        description: "Nesta palestra serão apresentados diversas formas de se utilizar a nuvem (cloud computing) de modo a melhorar o lançamento de novos produtos. Serão abordados aspectos relacionados com desenvolvimento e teste, previsão de demanda, monitoramento de aplicações, automação e custos.",
+                        time: "20h30"
+                    }
+                },
+                {
                     name: "Fabrício Christofoli",
                     photo: "speakers/fabriciochristofoli_160x160.jpg",
                     bio: "Advogado, graduado em Direito pela PUCRS, especialista em Processo Civil pela PUCRS, com atuação nas áreas de Direito Empresarial, Direito Civil, Direito Tributário e Direito eletrônico.",
@@ -319,13 +336,13 @@ module.exports = {
             ]
         },
         {
-            day: "Terça, 14 de abril",
+            day: "Quarta, 16 de abril",
             schedule: [
                 {
                     name: "Patrícia Bassani",
                     photo: "speakers/patriciabassani_640x638.jpg",
                     bio: "Professora dos cursos de Computação e do Programa de Pós-Graduação em Diversidade Cultural e Inclusão Social da Universidade Feevale.",
-                    //company: "",
+                    company: "Feevale",
                     link: {
                         href: "https://twitter.com/patriciab",
                         text: "@patriciab"
@@ -355,7 +372,7 @@ module.exports = {
                     name: "Regina Heidrich",
                     photo: "speakers/reginaheidrich_435x421.jpg",
                     //bio: "",
-                    //company: "",
+                    company: "Feevale",
                     link: {
                         href: "https://twitter.com/reginaheidrich",
                         text: "@reginaheidrich"
@@ -370,6 +387,7 @@ module.exports = {
                     name: "Joao Mossmann",
                     photo: "speakers/joaomossmann_160x160.jpg",
                     bio: "Doutorando e membro do grupo de Pesquisa em Tecnologia Aplicada à Educação da UFRGS, Mestre em Ciência da Computação pela PUCRS – na linha de Realidade Virtual, Bacharel em Ciência da Computação pela Universidade Feevale.  Atua como docente nos cursos de Ciência da Computação e do Curso Superior de Tecnologia em Jogos Digitais. Tem experiência profissional na área de Ciência da Computação e desenvolvimento de Jogos Digitais. Na pesquisa científica, têm como principal objeto de estudo o desenvolvimento de Jogos Digitais e sua aplicação em diferentes contextos.",
+                    company: "Feevale",
                     presentation: {
                         title: "Laboratório de visualização e MoCap - aplicações, desafios e oportunidades. ",
                         description: "Apresentar o novo laboratório visualização e captura de movimento constituído na Universidade Feevale . O laboratório conta com recursos para estereoscopia e captura de movimento. Em seguida, será demonstrado os resultados dos primeiros experimentos, bem com os desafios e oportunidades para os acadêmicos da computação.",
@@ -410,7 +428,7 @@ module.exports = {
                     name: "Marta Bez",
                     photo: "speakers/martabez_250x250.jpg",
                     bio: "Doutora em Informática na Educação pela UFRGS. Professora dos cursos de Ciência da Computação e Sistemas de Informações e do Mestrado em Indústria Criativa na Universidade Feevale. Coordenadora do CAS e participante ativa do LOA.",
-                    //company: "",
+                    company: "Feevale",
                     //link: {
                         //href: "",
                         //text: ""
