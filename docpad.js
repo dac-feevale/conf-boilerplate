@@ -8,7 +8,7 @@ module.exports = {
     // Conference info
     conf: {
       name: "Semana ICET 2014",
-      description: "Conference description",
+      description: "Semana ICET Feevale 2014",
       date: "12, 14, 15 e 16 de abril",
       // If your event is free, just comment this line
       //price: "$100",
@@ -33,15 +33,15 @@ module.exports = {
     // Site info
     site: {
       theme: "feevale",
-      url: "http://braziljs.github.io/conf-boilerplate/",
-      googleanalytics: "UA-33656081-1"
+      url: "http://semanaicet.dac-feevale.com.br/",
+      googleanalytics: "UA-49802220-2"
     },
 
     // Active sections on the website
     // to deactivate comment out with '//'
     // you can also change order here and it will reflect on page
     sections: [
-      //'about',
+      'about',
       'location',
       'speakers',
       'schedule',
@@ -52,7 +52,7 @@ module.exports = {
 
     // Labels which you can translate to other languages
     labels: {
-      about: "Sobre o Evento",
+      about: "O que é a Semana Acadêmica?",
       location: "Localização",
       speakers: "Palestrantes",
       schedule: "Agenda",
@@ -82,7 +82,7 @@ module.exports = {
                 },
                 {
                     name: "Paulo Bender",
-                    photo: "speakers/paulobender_500x375.jpg",
+                    photo: "speakers/paulobender_150x150.jpg",
                     bio: "Desenvolvedor de software, entusiasta de metodologias ágeis, graduando em Ciência da Computação na Unisinos.\nProfissional com experiência em diversas áreas do desenvolvimento de software. Atuou como analista de negócios, analista de sistemas, desenvolvedor e liderou equipes de desenvolvedores.\nHoje se aventura no mundo das startups com o quefo.me.\nGeek, casado com uma bióloga, pai da Sofia e da Guiga. ",
                     company: "QueFo.me",
                     link: {
@@ -200,7 +200,7 @@ module.exports = {
                 },
                 {
                     name: "Paulo Bender",
-                    photo: "speakers/paulobender_500x375.jpg",
+                    photo: "speakers/paulobender_150x150.jpg",
                     bio: "Desenvolvedor de software, entusiasta de metodologias ágeis, graduando em Ciência da Computação na Unisinos.\nProfissional com experiência em diversas áreas do desenvolvimento de software. Atuou como analista de negócios, analista de sistemas, desenvolvedor e liderou equipes de desenvolvedores.\nHoje se aventura no mundo das startups com o quefo.me.\nGeek, casado com uma bióloga, pai da Sofia e da Guiga. ",
                     company: "QueFo.me",
                     link: {
@@ -274,7 +274,7 @@ module.exports = {
                 },
                 {
                     name: "Marcelo do Amaral",
-                    photo: "speakers/marceloamaral_192x163.jpg",
+                    photo: "speakers/marceloamaral_150x150.jpg",
                     //bio: "",
                     company: "Brivia",
                     link: {
