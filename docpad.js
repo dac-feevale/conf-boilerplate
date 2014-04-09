@@ -91,7 +91,7 @@ module.exports = {
                     },
                     presentation: {
                         title: "Agile Game Kanban - Gerenciamento visual para gente grande",
-                        description: "O projeto Ensinar e Aprender em/na rede é desenvolvido na Escola de Aplicação Feevale e envolve o uso de tablets na sala de aula. O objetivo desta palestra é debater sobre as possibilidades e limitações relacionadas ao compartilhamento de tablets.",
+                        description: "Kanban e métricas de produtividade. Como saber o que realmente seu time está entregando.",
                         time: "10h00"
                     }
                 },
@@ -106,7 +106,7 @@ module.exports = {
                     },
                     presentation: {
                         title: "Quem não se comunica, se estrumbica! - Fale oData",
-                        description: "Desenvolve software desde de 2000 – atualmente trabalha com iOS e ABAP na SAP.",
+                        description: "Entenda o protocolo oData e conheça suas vantagens.",
                         time: "10h00"
                     }
                 },
