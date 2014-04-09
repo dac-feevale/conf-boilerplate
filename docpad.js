@@ -261,17 +261,17 @@ module.exports = {
                     }
                 },
                 {
-                    name: "Marta Leal",
-                    photo: "speakers/martaleal_256x256.jpg",
-                    bio: "Recruiter @ThoughtWorks",
+                    name: "Ana Paula Machado",
+                    photo: "speakers/anamachado_200x200.jpg",
+                    bio: "Mais de 10 anos de experiência em Recursos Humanos, atuando de forma generalista em empresas nacionais e multinacionais, especialmente em  Tecnologia da Informação e indústrias. Administradora de empresas com especialiazação em Dinâmica dos Grupos pela SBDG e Coach pela Sociedade Brasileira de Coaching.",
                     company: "ThoughtWorks",
                     link: {
-                        href: "https://twitter.com/Leal_Marta",
-                        text: "@Leal_Marta"
+                        href: "https://twitter.com/aplm_ana",
+                        text: "@aplm_ana"
                     },
                     presentation: {
                         title: "Join Us",
-                        description: "ThoughtWorks: o que são metodologias ágeis, nosso processo e a nossa empresa.",
+                        description: "Faremos uma apresentação sobre a ThoughtWorks, para lhe mostrar um pouco como a vida é aqui, ao mesmo tempo em que falaremos sobre como utilizamos o método Ágil na prática, trazendo exemplos de sucesso. Após, abrimos espaço para perguntas e um bate-papo com nossos consultores e o time de recrutamento. Esta é uma ótima oportunidade para fazermos networking e também para você conhecer em mais detalhes a TW.",
                         time: "19h30"
                     }
                 },
