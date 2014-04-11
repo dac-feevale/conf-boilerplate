@@ -20,7 +20,10 @@
 
         <% if @callToAction: %>
           <a href="<%= @callToAction.link %>" class="call-action-link" title="<%= @callToAction.text %>"><%= @callToAction.text %></a>
+	  <br/>
+	  <h2 class="tagline">ou</h2>
         <% end %>
+	  <a href="" class="call-action-link" title="Clique aqui para ver todas as oficinas">Clique aqui para ver todas as oficinas</a>
       </div>
     <% end %>
   </div>
