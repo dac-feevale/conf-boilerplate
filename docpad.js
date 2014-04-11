@@ -214,6 +214,20 @@ module.exports = {
                         time: "13h50"
                     }
                 },
+				{
+                    name: "Laercio Konzen",
+                    photo: "speakers/laerciokonzen_150x150.jpg",
+                    //bio: "",
+                    link: {
+                        href: "https://twitter.com/laerciokonzen",
+                        text: "@laerciokonzen"
+                    },
+                    presentation: {
+                        title: "Construa sua primeira aplicação Android em 2 horas",
+                        description: "A oficina tem como principal objetivo capacitar os participantes para desenvolver aplicações básicas para android, tendo uma visão símples e facilitada do uso de suas API's.",
+                        time: "19h30"
+                    }
+                },
                 {
                     name: "Paulo Bender",
                     photo: "speakers/paulobender_150x150.jpg",
@@ -236,7 +250,7 @@ module.exports = {
             schedule: [
                 {
                     name: "Ânderson Schuh",
-                    photo: "speakers/andersonschuh_313x378.jpg",
+                    photo: "speakers/andersonschuh_150x150.jpg",
                     bio: "Bacharel em Ciência da Computação pela Univerdade Feevale. Atualmente pesquisa sobre Interfaces Cérebro-Computador.",
                     company: "Feevale",
                     presentation: {
@@ -272,20 +286,6 @@ module.exports = {
                     presentation: {
                         title: "Join Us",
                         description: "Faremos uma apresentação sobre a ThoughtWorks, para lhe mostrar um pouco como a vida é aqui, ao mesmo tempo em que falaremos sobre como utilizamos o método Ágil na prática, trazendo exemplos de sucesso. Após, abrimos espaço para perguntas e um bate-papo com nossos consultores e o time de recrutamento. Esta é uma ótima oportunidade para fazermos networking e também para você conhecer em mais detalhes a TW.",
-                        time: "19h30"
-                    }
-                },
-                {
-                    name: "Laercio Konzen",
-                    photo: "speakers/laerciokonzen_342x417.jpg",
-                    //bio: "",
-                    link: {
-                        href: "https://twitter.com/laerciokonzen",
-                        text: "@laerciokonzen"
-                    },
-                    presentation: {
-                        title: "Construa sua primeira aplicação Android em 2 horas",
-                        description: "A oficina tem como principal objetivo capacitar os participantes para desenvolver aplicações básicas para android, tendo uma visão símples e facilitada do uso de suas API's.",
                         time: "19h30"
                     }
                 },
@@ -441,7 +441,7 @@ module.exports = {
                 },
                 {
                     name: "Fernando Faganello Madeira",
-                    photo: "speakers/fernandomadeira_848x960.jpg",
+                    photo: "speakers/fernandomadeira_150x150.jpg",
                     bio: "Gerente de Projetos da Kenta e co-Founder da Quefo.me.",
                     company: "QueFo.me",
                     link: {
@@ -516,7 +516,7 @@ module.exports = {
                 },
                 {
                     name: "Fernando Faganello Madeira",
-                    photo: "speakers/fernandomadeira_848x960.jpg",
+                    photo: "speakers/fernandomadeira_150x150.jpg",
                     bio: "Gerente de Projetos da Kenta e co-Founder da Quefo.me.",
                     company: "QueFo.me",
                     link: {
