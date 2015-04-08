@@ -7,9 +7,9 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "Semana ICET 2014",
-      description: "Semana ICET Feevale 2014",
-      date: "12, 14, 15 e 16 de abril",
+      name: "Semana ICET 2015",
+      description: "Semana ICET Feevale 2015",
+      date: "11, 13, 14 e 15 de abril",
       // If your event is free, just comment this line
       //price: "$100",
       venue: "Feevale",
@@ -63,110 +63,131 @@ module.exports = {
 
     days: [
         {
-            day: "Sábado, 12 de abril",
+            day: "Sábado, 11 de abril",
             schedule: [
                 {
-                    name: "Christian Perone",
-                    photo: "speakers/christianperone_400x400.jpg",
-                    bio: "Desenvolvedor open-sorce e pythonista apaixonado.",
-                    company: "PyTchê",
+                    name: "Daniel Dalalana",
+                    photo: "speakers/danieldalalana_150x150.jpg",
+                    bio: "Professor na Universidade Feevale e pesquisador da área de Segurança da Informação há 8 anos. Dentro da área atua principalmente nos temas de Teste de Invasão, Segurança Web e Auditoria de Sistemas.",
+                    company: "Feevale",
                     link: {
-                        href: "https://github.com/perone",
-                        text: "@perone"
+                        href: "https://twitter.com/danieldalalana",
+                        text: "@danieldalalana"
                     },
                     presentation: {
-                        title: "Python - Uma introdução básica",
-                        description: "Uma introdução básica a linguagem Python.",
+                        title: "Engenharia social técnica e o fator humano: Obtendo informações através da persuasão",
+                        description: "A engenharia social é um método de ataque que utiliza-se das interações humanas para a obtenção de informações sensíveis. Por essa razão, este ataque é posicionado na etapa inicial de um processo de teste de invasão para que o maior número de informações possíveis sobre o alvo seja alcançado, auxiliando assim as etapas posteriores. Quer saber como coletar informações do seu alvo?",
                         time: "10h00"
                     }
                 },
                 {
-                    name: "Paulo Bender",
-                    photo: "speakers/paulobender_150x150.jpg",
-                    bio: "Desenvolvedor de software, entusiasta de metodologias ágeis, graduando em Ciência da Computação na Unisinos.\nProfissional com experiência em diversas áreas do desenvolvimento de software. Atuou como analista de negócios, analista de sistemas, desenvolvedor e liderou equipes de desenvolvedores.\nHoje se aventura no mundo das startups com o quefo.me.\nGeek, casado com uma bióloga, pai da Sofia e da Guiga. ",
-                    company: "QueFo.me",
+                    name: "Paulo Diovani",
+                    photo: "speakers/paulodiovani_150x150.jpg",
+                    bio: " Desenvolvedor na Codeminer42 e acadêmico de Tecnologia em Sistemas para Internet pela Universidade Feevale.",
+                    company: "Codeminer42",
                     link: {
-                        href: "https://twitter.com/ileopoldes",
-                        text: "@ileopoldes"
+                        href: "https://twitter.com/paulodiovani",
+                        text: "@paulodiovani"
                     },
                     presentation: {
-                        title: "Agile Game Kanban - Gerenciamento visual para gente grande",
-                        description: "Kanban e métricas de produtividade. Como saber o que realmente seu time está entregando.",
-                        time: "10h00"
+                        title: "Por que diabos vou usar Java?",
+                        description: "Palestra sobre linguagens de programação modernas, com foco em desenvolvimento rápido, elegância e padrões para manter o código organizado e legível.",
+                        time: "11h30"
                     }
                 },
                 {
-                    name: "Douglas Hermann",
-                    photo: "speakers/douglashermann_200x200.jpg",
-                    bio: "Desenvolve software desde de 2000 – atualmente trabalha com iOS e ABAP na SAP.",
-                    company: "SAP",
+                    name: "Matheus Azzi",
+                    photo: "speakers/matheusazzi_200x200.jpg",
+                    bio: "Developer na Codeminer42 e graduando em Ciência da Computação, trabalha com desenvolvimento web desde 2009",
+                    company: "Codeminer42",
                     link: {
-                        href: "https://twitter.com/douglashermann",
-                        text: "@douglashermann"
+                        href: "http://matheusazzi.com/",
+                        text: "matheusazzi.com"
                     },
                     presentation: {
-                        title: "Quem não se comunica, se estrumbica! - Fale oData",
-                        description: "Entenda o protocolo oData e conheça suas vantagens.",
-                        time: "10h00"
+                        title: "Iniciando com Ruby",
+                        description: "Ruby é uma linguagem dinâmica, interpretada, orientada a objeto, open source com foco na simplicidade e na produtividade. Vamos ver os primeiros passos e alguns conceitos da linguagem.",
+                        time: "12h30"
                     }
                 },
                 {
-                    name: "Guilherme Mar",
-                    photo: "speakers/guilhermemar_240x240.jpg",
-                    bio: "Analista de sistemas no Terra Networks em Porto Alegre, bacharel em Ciência da Computação recém formado pela ULBRA Canoas, desenvolvedor web e entusiasta Software Livre há anos, já palestrou no FISL e vários Fóruns Tchêlinux, sendo neste segundo um dos responsáveis pelo Fórum de Porto Alegre. É fã do Guia dos Mochileiros das Galáxias e Sherlock Holmes.",
-                    link: {
-                        href: "https://twitter.com/guilhermemar",
-                        text: "@guilhermemar"
-                    },
-                    presentation: {
-                        title: "GNU/Linux, Software Livre e tudo mais",
-                        description: "Uma apresentação sobre o Mundo Software Livre: licenças, sistemas operacionais (GNU/Linux, Unix), interfaces gráficas, programas, instalação e comunidades. Descubra ainda as formas de ganhar dinheiro usando Software Livre.",
-                        time: "10h30"
-                    }
-                },
-                {
-                    name: "Sérgio Berlotto",
-                    photo: "speakers/sergioberlotto_200x200.jpg",
-                    bio: "Programador e usuário de linux desde 1999, atualmente programando em Python e Wordpress no Gabinete Digital do Governo do Estado do RS. Formado como Técnico em Proc. de Dados em Gravataí.",
+                    name: "Dante Zaupa",
+                    photo: "speakers/dantezaupa_150x150.png",
+                    bio: "",
                     company: "PyTchê",
                     link: {
-                        href: "https://twitter.com/berlottocdd",
-                        text: "@berlottocdd"
+                        href: "http://dzaupa.notapipe.org/",
+                        text: "dzaupa.notapipe.org"
                     },
                     presentation: {
-                        title: "Introdução do framework Flask",
-                        description: "Conhecer o framework Flask, que é direcionado a programação para web com Python, saber como ele funciona e quais são suas peculiaridades.",
-                        time: "10h50"
+                        title: "Aprendendo Python na Prática",
+                        description: "Oficina de introdução à linguagem Python 2.x, com foco em pessoas que conheçam programação mas ainda não tenham tido o prazer de ser apresentados a Python. Para reforçar o aprendizado, são feitos alguns exercícios.",
+                        time: "13h30"
                     }
                 },
                 {
-                    name: "Daniel Bastos",
-                    photo: "speakers/danielbastos_200x200.jpg",
-                    bio: "Desenvolvedor web por paixão, amante do software livre e acadêmico de longa data.",
-                    company: "PyTchê",
+                    name: "Vinícius Palma",
+                    photo: "speakers/viniciuspalma_220x220.jpg",
+                    bio: "Tenho 19 anos, sou Front-ender a 2 anos. Trabalho na CodeMiner42, onde aplico todo o conhecimento em front em webapps.",
+                    company: "Codeminer42",
                     link: {
-                        href: "http://daniellbastos.com.br",
-                        text: "daniellbastos.com.br"
+                        href: "http://viniciuspalma.github.io/",
+                        text: "viniciuspalma.github.io"
                     },
                     presentation: {
-                        title: "South, o básico para manter uma \"vida saudável\"",
-                        description: "Uma breve apresentação sobre a biblioteca South, como utiliza-la em projetos django para manter a evolução constantes dos seus models (apps) de uma forma simples e assim mantermos uma \"vida saudável\".",
-                        time: "11h40"
+                        title: "Sass nos dias de hoje.",
+                        description: "Sass é um pre-processador CSS, onde a forma de como vemos o CSS é alterado por meio de variáveis, funções e mixins. A proposta da palestra será apresentar a linguagem de forma objetiva, mostrando boas práticas com a linguagem e focando no melhor resultado final ou seja o output em CSS. Hoje como front-end na Codeminer42 já trabalhei em diversos projetos e todos estes projetos com Sass, não vejo o trabalho hoje sem o workflow do Sass.",
+                        time: "13h30"
                     }
                 },
                 {
-                    name: "Leandro Nunes",
-                    photo: "speakers/leandronunes_200x200.png",
-                    bio: "Possui graduação em Ciência da Computação e mestrado em Microeletrônica. Palestrante em diversos eventos de software livre tais como o Fórum Internacional de Software Livre e Tchêlinux. Atualmente trabalha como desenvolvedor em uma empresa multinacional de hardware e software utilizando Python como principal linguagem de programação.",
-                    company: "PyTchê",
+                    name: "Vinicius Almeida",
+                    photo: "speakers/viniciusalmeida_220x220.jpg",
+                    bio: "Programador Full Stack na Codeminer42.",
+                    company: "Codeminer42",
                     link: {
-                        href: "https://twitter.com/nunesleandro",
-                        text: "@nunesleandro"
+                        href: "https://twitter.com/vimoding",
+                        text: "@vimoding"
                     },
                     presentation: {
-                        title: "Arduino+Python",
-                        description: "Essa palestra irá apresentar os conceitos básicos sobre o projeto Arduino e sua integração com a linguagem Python.",
-                        time: "13h00"
+                        title: "Por que o Rails detona",
+                        description: "Uma demonstração diferente sobre as causas do Rails ser considerado tão bacana. Fugindo do hello world (ou blog em 15 minutos) e passando para uma abordagem prática da ferramenta no dia-a-dia do desenvolvedor focando no tooling e workflow (inclusive de front-end).",
+                        time: "14h30"
+                    }
+                },
+                {
+                    name: "Matias Leidemer",
+                    photo: "speakers/matiasleidemer_640x640.png",
+                    bio: "Programador desde 2005, passando desde Visual Basic até Oracle Forms. Se apaixonou quando conheceu Ruby em 2008, desde então, suas obsessões incluem desenvolver código limpo e de fácil manutenabilidade. Toma café, toma chimarrão e utiliza qualquer outra técnica aplicável para manter o foco e se manter produtivo.",
+                    company: "Codeminer42",
+                    link: {
+                        href: "https://github.com/matiasleidemer",
+                        text: "github.com/matiasleidemer"
+                    },
+                    presentation: {
+                        title: "Test Driven Development usando Ruby",
+                        description: "Nesta talk irei abordar as principais ferramentas e práticas de testes automatizados utilizando a linguagem Ruby. Como testes automatizados auxiliam na estruturação do código e como tais testes dão segurança necessária para realizar manutenções posteriores.",
+                        time: "15h30"
+                    }
+                },
+            ]
+        },
+        {
+            day: "Terça, 14 de abril",
+            schedule: [
+                {
+                    name: "Marcelo do Amaral",
+                    photo: "speakers/marceloamaral_150x150.jpg",
+                    bio: "",
+                    company: "Brivia",
+                    link: {
+                        href: "https://twitter.com/poucasola",
+                        text: "@poucasola"
+                    },
+                    presentation: {
+                        title: "#WTF: planejamento inline",
+                        description: "Planejamento em comunicação já não é mais um desafio apenas para comunicadores. Seja um pequeno empreendedor ou o gestor de uma grande companhia, todos estão imersos nos desafios da comunicação online/offline em busca de resultados e novos adoradores para suas marcas e modelos de negócio. Neste minicurso entenderemos como desenvolver repertório, briefing, gerar ideias e montar a estratégia de comunicação para pequeno(a)s, médio(a)s e grandes negócios e marcas em um ambiente de consumo de mídia inline.",
+                        time: "18h30"
                     }
                 },
                 {
@@ -179,174 +200,9 @@ module.exports = {
                         text: "@Miguelgraz"
                     },
                     presentation: {
-                        title: "Trabalho Remoto com Vikings: ferramentas e macetes de muito longe",
-                        description: "Em quase dois anos trabalhando remotamente com suecos aprendemos algumas táticas para driblar as dificuldades do trabalho remoto em equipe, da diferença cultural e da comunicação com pessoas com um background tão diferente para chegarmos em um time muito unido e \"próximo\", apesar da distância e do fuso horário. Venha ver as manhas, nossos erros e acertos.",
-                        time: "13h00"
-                    }
-                },
-                {
-                    name: "Guilherme Mar",
-                    photo: "speakers/guilhermemar_240x240.jpg",
-                    bio: "Analista de sistemas no Terra Networks em Porto Alegre, bacharel em Ciência da Computação recém formado pela ULBRA Canoas, desenvolvedor web e entusiasta Software Livre há anos, já palestrou no FISL e vários Fóruns Tchêlinux, sendo neste segundo um dos responsáveis pelo Fórum de Porto Alegre. É fã do Guia dos Mochileiros das Galáxias e Sherlock Holmes.",
-                    company: "Terra",
-                    link: {
-                        href: "https://twitter.com/guilhermemar",
-                        text: "@guilhermemar"
-                    },
-                    presentation: {
-                        title: "JavaScript!",
-                        description: "Aprendendo JavaScript do melhor modo, programando. Irá se ver JavaScript de acordo com o nível da galera, podendo ser o básico até o avançado, só depende do público.",
-                        time: "13h00"
-                    }
-                },
-                {
-                    name: "Mateus Caruccio",
-                    photo: "speakers/mateuscaruccio_250x250.jpg",
-                    bio: "Adotou OSS em 1997 e desde então não abre mão de um bom terminal. Atualmente CEO e desenvolvedor na GetupCloud.com, teve passagens por locais como Terra Networks, PUC-RS e T&T. Trocou C port Python à 5 anos e nunca mais abriu a man page do gcc.",
-                    company: "Getup",
-                    link: {
-                        href: "https://twitter.com/MateusCaruccio",
-                        text: "@MateusCaruccio"
-                    },
-                    presentation: {
-                        title: "OpenShift Origin Index - Python e Flask na prática",
-                        description: "Apresentarei brevemente a plataforma OpenShift Origin, um sistema para padronizar e acelerar o desenvolvimento e deploy de aplicações web escaláveis na nuvem. Como parte do projeto Open Source OpenShift Origin, mostrarei os componentes da plataforma e focarei no projeto OO-Index, que pretende ser um ponto centralizado de Quickstarts e Cartuchos (receitas prontas) para lançar aplicações de forma automatizada.\nMostro ainda como está estruturado o projeto e as tecnologias envolvidas (Python/Flask e NodeJS), bem como o uso do GitHub como uma ferramenta de moderação.",
-                        time: "13h50"
-                    }
-                },
-				{
-                    name: "Laercio Konzen",
-                    photo: "speakers/laerciokonzen_150x150.jpg",
-                    //bio: "",
-                    link: {
-                        href: "https://twitter.com/laerciokonzen",
-                        text: "@laerciokonzen"
-                    },
-                    presentation: {
-                        title: "Construa sua primeira aplicação Android em 2 horas",
-                        description: "A oficina tem como principal objetivo capacitar os participantes para desenvolver aplicações básicas para android, tendo uma visão símples e facilitada do uso de suas API's.",
-                        time: "19h30"
-                    }
-                },
-                {
-                    name: "Paulo Bender",
-                    photo: "speakers/paulobender_150x150.jpg",
-                    bio: "Desenvolvedor de software, entusiasta de metodologias ágeis, graduando em Ciência da Computação na Unisinos.\nProfissional com experiência em diversas áreas do desenvolvimento de software. Atuou como analista de negócios, analista de sistemas, desenvolvedor e liderou equipes de desenvolvedores.\nHoje se aventura no mundo das startups com o quefo.me.\nGeek, casado com uma bióloga, pai da Sofia e da Guiga. ",
-                    company: "QueFo.me",
-                    link: {
-                        href: "https://twitter.com/ileopoldes",
-                        text: "@ileopoldes"
-                    },
-                    presentation: {
-                        title: "TDD - Eu testo, tu testas e ele testa. Ou ao menos deveria ser assim :/",
-                        description: "Design dirigido por testes. Como garantir que os requisitos sejam atendidos e o processo de testes para desenvolvedores (Testes de unidade, TDD, Testes de aceitação).",
-                        time: "14h40"
-                    }
-                },
-            ]
-        },
-        {
-            day: "Terça, 15 de abril",
-            schedule: [
-                {
-                    name: "Ânderson Schuh",
-                    photo: "speakers/andersonschuh_150x150.jpg",
-                    bio: "Bacharel em Ciência da Computação pela Univerdade Feevale. Atualmente pesquisa sobre Interfaces Cérebro-Computador.",
-                    company: "Feevale",
-                    presentation: {
-                        title: "Desmistificando Interface Cérebro-Computador: Controlando uma cadeira de rodas com o piscar dos olhos",
-                        description: "Na primeira parte da oficina, será apresentado uma visão geral da área de Interface Cérebro-Computador, além de apresentar o projeto: BLINK – Um simulador de cadeira de rodas em ambiente 3D controlado por Interface Cérebro-Computador não invasiva. Após, será realizado uma prática utilizando Unity3D e o Neurosky Mindwave.",
-                        time: "19h00"
-                    }
-                },
-                {
-                    name: "Rodrigo Araujo",
-                    photo: "speakers/rodrigoaraujo_424x424.jpg",
-                    bio: "System Engineer na Brivia - Bacharelando em Gestão da Tecnologia da Informação. Há 7 anos atua em desenvolvimento web com foco em ASP 3.0, PHP, C#, MySQL e Javascript. Possui larga experiência em análise de projetos de sistemas e comunicação digital. Hoje atua como analista de sistemas e desenvolvedor nas plataformas .NET e PHP atendendo a clientes como Gerdau, Cetip, ThyssenKrupp, entre outros.",
-                    company: "Brivia",
-                    //link: {
-                        //href: "",
-                        //text: ""
-                    //},
-                    presentation: {
-                        title: "Internet das Coisas",
-                        description: "O crescimento do número de objetos conectados à internet nos próximos anos será enorme, e os pontos de contato entre os objetos, os dados e as pessoas também aumentarão exponencialmente. Essa palestra tem o objetivo de definir e esclarecer todos os principais conceitos e possíveis aplicações da internet das coisas, bem como trazer exemplos de produtos inteligentes que já estão entre nós, ou que em breve farão parte do nosso dia-a-dia.",
-                        time: "19h00"
-                    }
-                },
-                {
-                    name: "Ana Paula Machado",
-                    photo: "speakers/anamachado_200x200.jpg",
-                    bio: "Mais de 10 anos de experiência em Recursos Humanos, atuando de forma generalista em empresas nacionais e multinacionais, especialmente em  Tecnologia da Informação e indústrias. Administradora de empresas com especialiazação em Dinâmica dos Grupos pela SBDG e Coach pela Sociedade Brasileira de Coaching.",
-                    company: "ThoughtWorks",
-                    link: {
-                        href: "https://twitter.com/aplm_ana",
-                        text: "@aplm_ana"
-                    },
-                    presentation: {
-                        title: "Join Us",
-                        description: "Faremos uma apresentação sobre a ThoughtWorks, para lhe mostrar um pouco como a vida é aqui, ao mesmo tempo em que falaremos sobre como utilizamos o método Ágil na prática, trazendo exemplos de sucesso. Após, abrimos espaço para perguntas e um bate-papo com nossos consultores e o time de recrutamento. Esta é uma ótima oportunidade para fazermos networking e também para você conhecer em mais detalhes a TW.",
-                        time: "19h30"
-                    }
-                },
-                {
-                    name: "Marcelo do Amaral",
-                    photo: "speakers/marceloamaral_150x150.jpg",
-                    //bio: "",
-                    company: "Brivia",
-                    link: {
-                        href: "https://twitter.com/poucasola",
-                        text: "@poucasola"
-                    },
-                    presentation: {
-                        title: "Storytelling: Plataforma e Experiência",
-                        description: "Quero informação e tecnologia se tornam commodities, a próxima fronteira é a experiência. Para criar conexões emocionais com as pessoas, o conceito de storytelling tem se tornado cada vez mais presente e essencial na comunicação das marcas para dar coerência a proposta de valor e proporcionar experiências verdadeiras. Na palestra, entenderemos como plataformas de comunicação amparadas por dados estão proporcionando novas possibilidades através do storytelling.",
-                        time: "19h30"
-                    }
-                },
-                {
-                    name: "André Muller",
-                    photo: "speakers/andremuller_199x199.jpg",
-                    bio: "Arquiteto de Software. Responsável técnico pelo maior produto HANA desenvolvido hoje no Brasil.",
-                    company: "SAP",
-                    link: {
-                        href: "http://scn.sap.com/people/andre.muller",
-                        text: "@andre.muller"
-                    },
-                    presentation: {
-                        title: "In Memory: alguém mexeu nas minhas camadas de desenvolvimento!",
-                        description: "In memory database computing: como isso muda a forma de fazer software.",
-                        time: "19h30"
-                    }
-                },
-                {
-                    name: "Fabiano Nadler",
-                    photo: "speakers/fabianonadler_320x320.jpg",
-                    bio: "Experience Design Leader na Brivia - Formado em Publicidade e Propaganda pela UFRGS e com MBA em Marketing pela ESPM. Trabalha como Experience Design Leader na Brivia. Foi responsável pela coordenação do trabalho de experience design de projetos para empresas como Petrobras, Gerdau, Terra, Unimed, Vivo, AES Brasil, Unisinos, Braskem, Embraco, Sicredi entre outros.",
-                    company: "Brivia",
-                    link: {
-                        href: "https://twitter.com/fnadler",
-                        text: "@fnadler"
-                    },
-                    presentation: {
-                        title: "Design de Experiência de serviços",
-                        description: "Em uma era onde o consumidor está cada vez mais informado e exigente, uma estratégia de design de experiência torna-se cada vez mais importante e relevante para sobreviver no mercado. A palestra ira apresentar alguns conceitos de design de experiência e como aplicá-los ao mercado de serviços.",
-                        time: "20h30"
-                    }
-                },
-                {
-                    name: "Guillermo Hess",
-                    photo: "speakers/guillermohess_130x130.jpg",
-                    bio: "Doutor em ciência da computação (2008) pela UFRGS. Professor da Universidade Feevale nos cursos de graduação e pós-graduação relacionados com informática e computação. Sócio da empresa ionatec, parceira oficial da Amazon Web Services, com forte atuação na área de cloud computing.",
-                    company: "ionatec",
-                    link: {
-                        href: "http://www.ionatec.com.br/author/ghess/",
-                        text: "@ghess"
-                    },
-                    presentation: {
-                        title: "Como a nuvem pode ajudar no lançamento de novos produtos",
-                        description: "Nesta palestra serão apresentados diversas formas de se utilizar a nuvem (cloud computing) de modo a melhorar o lançamento de novos produtos. Serão abordados aspectos relacionados com desenvolvimento e teste, previsão de demanda, monitoramento de aplicações, automação e custos.",
-                        time: "20h30"
+                        title: "Introdução à Ruby, um coding dojo e uma API REST tudo ao mesmo tempo agora",
+                        description: "Nessa oficina teremos uma pequenina introdução à linguagem Ruby, sua história, características e sintaxe, logo depois um hands-on em formato de coding dojo para desenvolver em tempo recorde uma API servindo JSON usando o micro framework Sinatra. O objetivo é proporcionar a todos uma experiência divertida com Ruby, testes unitários e um problema "real", venha conhecer ou aperfeiçoar seus conhecimentos e de quebra ter seu próprio backend pronto!",
+                        time: "18h30"
                     }
                 },
                 {
@@ -360,14 +216,23 @@ module.exports = {
                     presentation: {
                         title: "Aspectos jurídicos relevantes sobre a criação e o desenvolvimento da atividade empresarial de Startups.",
                         description: "Para o sucesso de uma “Startup”, como de toda e qualquer empresa, não basta um ótimo produto ou serviço, é preciso também uma constituição sólida e responsável. Por isso, é essencial o conhecimento básico de alguns aspectos jurídicos. A escolha do melhor tipo societário, a regulamentação do “Investimento Anjo”, a responsabilidade da empresa pelo produto ou serviço ofertado, são alguns dos assuntos que serão abordados nesta apresentação.",
-                        time: "21h00"
+                        time: "19h00"
                     }
                 },
-            ]
-        },
-        {
-            day: "Quarta, 16 de abril",
-            schedule: [
+                {
+                    name: "Laercio Konzen",
+                    photo: "speakers/laerciokonzen_150x150.jpg",
+                    //bio: "",
+                    link: {
+                        href: "https://twitter.com/laerciokonzen",
+                        text: "@laerciokonzen"
+                    },
+                    presentation: {
+                        title: "Construa um aplicativo para todas as plataformas, em 2 horas",
+                        description: "Visando agilidade no desenvolvimento de aplicações mobile, será apresentada o framework Phonegap, o qual permite o desenvolvimento para multiplas plataformas à partir do uso de HTML, CSS e JavaScript. Em duas horas de "mão na massa" será possível ter uma aplicação funcional e o conhecimento das mais variadas ferramentas para desenvolver a sua aplicação mobile. Recomendável conhecimento básico em desenvolvimento web (html, css e javascript)",
+                        time: "19h30"
+                    }
+                },
                 {
                     name: "Patrícia Bassani",
                     photo: "speakers/patriciabassani_640x638.jpg",
@@ -378,82 +243,61 @@ module.exports = {
                         text: "@patriciab"
                     },
                     presentation: {
-                        title: "Tablets na educação: aspectos técnicos",
-                        description: "O projeto Ensinar e Aprender em/na rede é desenvolvido na Escola de Aplicação Feevale e envolve o uso de tablets na sala de aula. O objetivo desta palestra é debater sobre as possibilidades e limitações relacionadas ao compartilhamento de tablets.",
-                        time: "18h00"
-                    }
-                },
-                {
-                    name: "Juliano Fagundes",
-                    photo: "speakers/julianofagundes_500x500.jpg",
-                    bio: "Formado em Publicidade e Propaganda. Especialista em Comunicação Digital. Há 12 anos no mercado digital, planejei e criei para marcas líderes como Rio 2016, L'Oreal, TAM e Toyota. Atualmente, Diretor de Criação na Brivia, trabalhando para Braskem, Cetip, Midea Carrier, Ramarim, Weber Saint-Gobain e Vivo.",
-                    company: "Brivia",
-                    link: {
-                        href: "https://twitter.com/julianofagundes",
-                        text: "@julianofagundes"
-                    },
-                    presentation: {
-                        title: "Marcas em busca de uma causa: como chegar lá",
-                        description: "Num contexto de muitos meios e promessas para o consumidor, prevalecem as marcas com as quais nos identificamos. Mas chegar lá? Por onde começar?Vamos esclarecer o assunto através de uma abordagem prática sobre a busca pela verdade da marcas. O que é causa? Qual a importância para as marcas? Como fazer acontecer no dia a dia?",
-                        time: "19h00"
-                    }
-                },
-                {
-                    name: "Regina Heidrich",
-                    photo: "speakers/reginaheidrich_435x421.jpg",
-                    //bio: "",
-                    company: "Feevale",
-                    link: {
-                        href: "https://twitter.com/reginaheidrich",
-                        text: "@reginaheidrich"
-                    },
-                    presentation: {
-                        title: "Uma nova forma de interação: A utilização de Brain Computer Interface(BCI) por pessoas com paralisia cerebral e problemas motores",
-                        description: "A palestra  apresentará as possibilidades de interação através de uma tecnologia nova, de baixo custo e que permite que o usuário acesse o computador através de ondas cerebrais. Uma interface cérebro-computador (BCI), permite que uma pessoa possa transferir comandos a um computador diretamente. Em vez de utilizar um teclado, mouse ou outro dispositivo de entrada, o utilizador desta interface  simplesmente emite os comandos através de ondas cerebrais.",
+                        title: "Ferramentas de colaboração na web: análise da interação sob a perspectiva da presença social",
+                        description: "Pesquisas recentes reconhecem que a presença social é um conceito importante na educação online. As definições de presença social na educação online tendem a envolver o grau no qual uma pessoa é percebida como sendo “real” e como “estando lá”. As interações fortalecem a presença social, caracterizada pelo potencial de participação, envolvimento e visibilidade dos sujeitos, em relação a si, aos outros e ao meio. Além disso, os estudos apontam que a presença social é considerada um princípio relevante no projeto da comunicação mediada por computador e um determinante importante na formação de comunidades virtuais de aprendizagem (CVA). Nesta perspectiva, entende-se que a seleção de ambientes virtuais e de ferramentas para subsidiar os processos de educação online devem possibilitar a interação ativa entre os sujeitos, a fim de potencializar a formação de CVA. Esta apresentação discute diferentes conceitos sobre a presença social e apresenta os resultados parciais de um modelo para a análise de ferramentas web 2.0 sob a perspectiva da presença social .",
                         time: "19h30"
                     }
                 },
                 {
-                    name: "Joao Mossmann",
-                    photo: "speakers/joaomossmann_160x160.jpg",
-                    bio: "Doutorando e membro do grupo de Pesquisa em Tecnologia Aplicada à Educação da UFRGS, Mestre em Ciência da Computação pela PUCRS – na linha de Realidade Virtual, Bacharel em Ciência da Computação pela Universidade Feevale.  Atua como docente nos cursos de Ciência da Computação e do Curso Superior de Tecnologia em Jogos Digitais. Tem experiência profissional na área de Ciência da Computação e desenvolvimento de Jogos Digitais. Na pesquisa científica, têm como principal objeto de estudo o desenvolvimento de Jogos Digitais e sua aplicação em diferentes contextos.",
-                    company: "Feevale",
-                    presentation: {
-                        title: "Laboratório de visualização e MoCap - aplicações, desafios e oportunidades. ",
-                        description: "Apresentar o novo laboratório visualização e captura de movimento constituído na Universidade Feevale . O laboratório conta com recursos para estereoscopia e captura de movimento. Em seguida, será demonstrado os resultados dos primeiros experimentos, bem com os desafios e oportunidades para os acadêmicos da computação.",
-                        time: "19h30"
-                    }
-                },
-                {
-                    name: "Matias Schertel",
-                    photo: "speakers/matiasschertel_199x199.jpg",
-                    bio: "Desenvolvedor no SAP Labs Latin America desde 2010, é também mentor de Design Thinking. Constantemente engajado em projetos de inovação com o uso das mais diversas metodologias e tecnologias. E apesar de não conseguir chutar uma bola reto esta sempre pronto para aprender algo novo.",
-                    company: "SAP",
+                    name: "Cynthia Zanoni",
+                    photo: "speakers/cynthiazanoni_500x500.jpg",
+                    bio: "",
+                    company: "Think Digital",
                     link: {
-                        href: "http://schertel.co/",
-                        text: "schertel.co"
+                        href: "https://twitter.com/cynthia_zanoni",
+                        text: "@cynthia_zanoni"
                     },
                     presentation: {
-                        title: "Schertel openUI5 - O que é? Onde vivem? Do que se alimentam?",
-                        description: "O HTML5 é o resultado de mais de 20 anos de evolução do HTML, com a sua popularização e amplo suporte a APIs de para conteúdo “rico” têm sido utilizado cada vez mais em conjunto com java-script na criação de web applications. O openUI5 é um framework JS+HTML5 que facilita a criação de web application que rodam nativamente nos browser mais modernos e tem comportamento responsivo, funcionando desde um celular a um desktop. Nessa palestra teremos uma introdução ao openUI5, desde as evoluções que formam sua base tecnológica, onde encontra-lo e como utiliza-lo.",
-                        time: "19h30"
-                    }
-                },
-                {
-                    name: "Fernando Faganello Madeira",
-                    photo: "speakers/fernandomadeira_150x150.jpg",
-                    bio: "Gerente de Projetos da Kenta e co-Founder da Quefo.me.",
-                    company: "QueFo.me",
-                    link: {
-                        href: "https://twitter.com/fernandofaga",
-                        text: "@fernandofaga"
-                    },
-                    presentation: {
-                        title: "Lean Startup: da ideia ao lançamento!",
-                        description: "Lean Startup é a forma prática de implementar um produto ou serviço, desde o nascimento da ideia até seu lançamento. As Lean Startups digitais são normalmente projetos que necessitam validar se a oportunidade de negócio é realmente rentável e definir o modelo de negócios que será explorado. Após estas etapas, deixa de ser uma Lean Startup e se transforma em uma empresa com um modelo de negócios operante.",
+                        title: "WoMoz - envolva-se!",
+                        description: "Women & Mozilla (WoMoz) é uma comunidade composta de membros de diversos projetos de software livre que dedicam-se principalmente a aumentar o envolvimento e a visibilidade de mulheres nesses projetos, em especial na Mozilla, e em aumentar o número de contribuidoras. Tecnologia deve ser aberta, livre e acessível da mesma forma para homens e mulheres. O projeto é um exemplo de como promover e dar visibilidade as minorias. Qualquer pessoa pode participar do WoMoz, não importa o gênero, orientação sexual, trabalho, etc. Nós acreditamos que o software livre precisa de mais mulheres!  Contribua conosco! ",
                         time: "20h00"
                     }
                 },
+                {
+                    name: "Gabriel Hoff",
+                    photo: "speakers/gabrielhoff_200x200.jpg",
+                    bio: "Web developer no QueFo.me. Padawan de Git há 2 anos e desenvolvedor há 5 anos. Corredor, bicicleteiro e aspirante a aprendiz de lutador.",
+                    company: "QueFo.me",
+                    link: {
+                        href: "https://twitter.com/gabriel_hof",
+                        text: "@gabriel_hof"
+                    },
+                    presentation: {
+                        title: "Restaurando o equilíbrio da Força com Git",
+                        description: "Cansado de ter que ficar usando CTRL + Z para voltar as alterações do seu código fonte? Cansado de esquecer por que diabos você fez uma modificação no seu código há 1 mês atrás? Ou de não saber quem ou quando modificaram o código de um projeto da sua equipe? Você e seus colegas ficam compactando e enviando seu projeto por e-mail para compartilhá-lo? Então venha se tornar um Padawan de Git e restaure o equilíbrio da força!",
+                        time: "20h30"
+                    }
+                },
+                {
+                    name: "Adriana Neves dos Reis",
+                    photo: "speakers/adriananevesddosreis_200x200.jpg",
+                    bio: "Professora da Feevale, atua como docente em cursos da área de informática e engenharia desde 2005, trabalhando principalmente nos seguintes temas: sistemas de informação, engenharia e qualidade de software, programação, e avaliação de desempenho de sistemas. Atualmente doutoranda em Engenharia de Produção e Sistemas, desenvolve pesquisas nas áreas de Controle Estatístico de Processos em Customização em Massa, Modelagem e Simulação de Agentes em contextos diversos, Gestão do Conhecimento em Sociotecnologia, e Gestão da Inovação e Mecanismos de Transferência Tecnológica.",
+                    company: "Feevale",
+                    link: {
+                        href: "http://www.escavador.com/pessoas/7896095#academico",
+                        text: "Formação"
+                    },
+                    presentation: {
+                        title: "Do adoçante ao smartphone: entendendo a adoção de tecnologia com simulação computacional",
+                        description: "A atividade se propõe a discutir modelos sociotécnicos de adoção tecnológica, e apresentar como ferramentas computacionais de simulação podem contribuir para o entendimento deste processo e, consequentemente, estabelecer estratégias de inserção de novas tecnologias no mercado.",
+                        time: "19h30"
+                    }
+                },
+            ]
+        },
+        {
+            day: "Quarta, 15 de abril",
+            schedule: [
                 {
                     name: "Gabriel Engel",
                     photo: "speakers/gabrielengel_256x256.png",
@@ -464,39 +308,35 @@ module.exports = {
                         text: "@gabrielengel"
                     },
                     presentation: {
-                        title: "Empreendedorismo: amor e lucro!",
-                        description: "Por senso comum, as pessoas entendem que ou você faz o que ama ou ganha dinheiro. Numa breve apresentação autobiográfica gostaria de explicar como é possível conciliar ambições artísticas e pessoais com as ambições financeiras. Também quero expor algumas das preocupações que acredito que novos empreendedores devam ter em mente antes de formar um negócio; e como agir durante o crescimento do empreendimento e um pequeno toque sobre a hora de sair.",
-                        time: "20h00"
+                        title: "Introdução a finanças pessoais: ou Como viver bem.",
+                        description: "Começando carreira? Já pensou onde ela termina? Quanto tempo você quer trabalhar? Como você quer viver? Por quê você trabalha tanto?",
+                        time: "18h30"
                     }
                 },
                 {
-                    name: "Claudio Ramos",
-                    photo: "speakers/claudioramos_150x160.jpg",
-                    bio: "Desenvolvedor de software (praticante agile desde 2011).",
-                    company: "SAP",
+                    name: "Tânia Silva",
+                    photo: "speakers/taniasilva_200x200.jpg",
+                    bio: "Tania Silva é uma desenvolvedora que está sempre aprendendo. Filha de curso técnico e amiga íntima de pesquisas na internet, atualmente anda brincando com JavaScript, mas não importa a linguagem, o que manda é a lógica.",
+                    company: "ThoughtWorks",
                     link: {
-                        href: "http://scn.sap.com/people/claudio.ramos",
-                        text: "@claudio.ramos"
+                        href: "https://br.linkedin.com/in/taniamarasilva",
+                        text: "linkedin.com/in/taniamarasilva"
                     },
                     presentation: {
-                        title: "Seja um desenvolvedor ÁGIL",
-                        description: "Conheça as metodologias de desenvolvimento Agile aplicadas a ambiente de produção.",
-                        time: "20h30"
+                        title: "TDD O Quê? Primeiros passos com TDD",
+                        description: "TDD é uma metodologia de desenvolvimento de software onde seu código é direcionado pelos testes. Nessa palestra apresentarei o que é esta prática, como ela é utilizada e suas vantagens.",
+                        time: "18h30"
                     }
                 },
                 {
-                    name: "Leonardo Zanetti",
-                    photo: "speakers/leonardozanetti_200x200.jpg",
-                    bio: "Especialista em desenvolvimento mobile e em computação na nuvem.",
-                    company: "SAP",
-                    link: {
-                        href: "http://scn.sap.com/people/leonardo.zanetti/",
-                        text: "@leonardo.zanetti"
-                    },
+                    name: "Joao Mossmann",
+                    photo: "speakers/joaomossmann_160x160.jpg",
+                    bio: "Doutorando e membro do grupo de Pesquisa em Tecnologia Aplicada à Educação da UFRGS, Mestre em Ciência da Computação pela PUCRS – na linha de Realidade Virtual, Bacharel em Ciência da Computação pela Universidade Feevale.  Atua como docente nos cursos de Ciência da Computação e do Curso Superior de Tecnologia em Jogos Digitais. Tem experiência profissional na área de Ciência da Computação e desenvolvimento de Jogos Digitais. Na pesquisa científica, têm como principal objeto de estudo o desenvolvimento de Jogos Digitais e sua aplicação em diferentes contextos.",
+                    company: "Feevale",
                     presentation: {
-                        title: "Plataforma nas nuvens, consigo programar desconectado?",
-                        description: "Saiba o que é e como utilizar a plataforma cloud da SAP para criar aplicações.",
-                        time: "20h30"
+                        title: "Jogos Digitais e suas Aplicações",
+                        description: "Apresentar as diferentes aplicações dos jogos digitais. A palestra demonstra exemplos de jogos produzidos na Universidade Feevale. Em seguida, oportuniza um espaço para discussão sobre os desafios da área e as oportunidades para os acadêmicos.",
+                        time: "19h30"
                     }
                 },
                 {
@@ -504,29 +344,111 @@ module.exports = {
                     photo: "speakers/martabez_250x250.jpg",
                     bio: "Doutora em Informática na Educação pela UFRGS. Professora dos cursos de Ciência da Computação e Sistemas de Informações e do Mestrado em Indústria Criativa na Universidade Feevale. Coordenadora do CAS e participante ativa do LOA.",
                     company: "Feevale",
-                    //link: {
-                        //href: "",
-                        //text: ""
-                    //},
                     presentation: {
-                        title: "Projetos de ensino: os casos CAS e LOA",
-                        description: "Os projetos de ensino são formas de integrar a pesquisa e o ensino, unindo forças de professores e alunos, com o objetivo de extrapolar o conhecimento adquirido em sala de aula. O objetivo é apresenta o CAS (Computação Aplicada a Saúde) e o LOA (Laboratório de Objetos de Aprendizagem). Estes são exemplos de projetos de ensino de sucesso, promovendo o aprendizado, integração, interdisciplinaridade e publicações.",
-                        time: "21h00"
+                        title: "Tecnologias na área da saúde",
+                        description: "O encontro visa apresentar e discutir novas tecnologias aplicadas na área da saúde. Serão apresentados os trabalhos desenvolvidos pelo grupo CAS - Computação Aplicada a Saúde e possibilidades dos alunos se inserirem nesta área que está despontando como uma das mais promissoras em termos tecnológicos.",
+                        time: "19h30"
+                    }
+                }, /*PAREI AKI*/
+                {
+                    name: "Ânderson Schuh",
+                    photo: "speakers/andersonschuh_150x150.jpg",
+                    bio: "Bacharel em Ciência da Computação pela Univerdade Feevale. Atualmente pesquisa sobre Interfaces Cérebro-Computador.",
+                    company: "Feevale",
+                    presentation: {
+                        title: "Introdução às Interfaces Cérebro-Computador.",
+                        description: "Em conjunto à palestra ministrada pela Doutora Marta Bez, irá complementanr o tema Tecnologias na área da Saúde. ",
+                        time: "19h30"
                     }
                 },
                 {
-                    name: "Fernando Faganello Madeira",
-                    photo: "speakers/fernandomadeira_150x150.jpg",
-                    bio: "Gerente de Projetos da Kenta e co-Founder da Quefo.me.",
-                    company: "QueFo.me",
+                    name: "Émerson Butzen",
+                    photo: "speakers/emersonbutzen_370x470.jpg",
+                    bio: "Émerson Butzen, é especialista em Controle e Automação (2014) e bacharel em Sistemas de Informação (2008) ambos pela Universidade Feevale, tem 20 anos de experiência em programação desde a linguagem Clipper e atua como professor universitário na FTEC e Assistente de Pesquisa I no Projeto Altus pela Unisinos.",
+                    company: "Altus S.A",
                     link: {
-                        href: "https://twitter.com/fernandofaga",
-                        text: "@fernandofaga"
+                        href: "https://twitter.com/emersonbutzen",
+                        text: "@emersonbutzen"
                     },
                     presentation: {
-                        title: "Quem é o Analista de Negócios, o que ele faz e como está o seu mercado",
-                        description: "Tradicionalmente as empresas alocam seus analistas de sistemas ou de requisitos para levantar com o cliente ou usuário as suas necessidades para então partir para o desenvolvimento. Aparecem então as reclamações do cliente: \"Pensei que isto estava subentendido!\" \"Não era isso que eu queria!\" O Analista de Negócios é a pessoa que não só levanta, mas capta do negócio a sua REAL necessidade para então oferecer a REAL solução. Ele não só anota os pedidos, mas busca conhecer o problema a fundo.",
-                        time: "21h00"
+                        title: "Object Oriented For Dummies ou Orientação a Objetos para Leigos",
+                        description: "Object Oriented For Dummies, aprenda a montar um modelo orientado a objetos em um dia, de forma prática e sem rodeios.",
+                        time: "19h30"
+                    }
+                },
+                {
+                    name: "Bruno Konrad",
+                    photo: "speakers/brunokonrad_500x500.jpg",
+                    bio: "Estudo desde 2009, trabalho desde agosto de 2011 com desenvolvimento de software. Experiência em mobile e web, uso python em casa e raramente no trabalho formal. Estudei na Feevale de 2012 ate 2014.",
+                    //company: "SAP",
+                    link: {
+                        href: "https://twitter.com/brunoskonrad",
+                        text: "@brunoskonrad"
+                    },
+                    presentation: {
+                        title: "Python: mais uma para a caixa de ferramentas",
+                        description: "Apresentar Python, motivação da linguagem, características, introdução da sintaxe e onde e quando usar. Se possível usar o laboratório para ir testando durante a apresentação!",
+                        time: "20h30"
+                    }
+                },
+                {
+                    name: "Bruno Leite",
+                    photo: "speakers/brunoleite_195x195.jpg",
+                    bio: "Desenvolvedor na Thoughtworks há 5 meses, formado pela Universidade Federal de Minas Gerais no curso de Ciência da Computação.",
+                    company: "Thoughtworks",
+                    link: {
+                        href: "https://twitter.com/bleitea",
+                        text: "@bleitea"
+                    },
+                    presentation: {
+                        title: "Introdução a Java Persistence API",
+                        description: "A palestra visa abordar conceitos básicos de ORM (Mapeamento Objeto Relacional) utilizando Java Persistence API, visa também ressaltar alguns conceitos básicos sobre Orientação a Objetos e desenvolvimento de software.",
+                        time: "20h00"
+                    }
+                },
+                {
+                    name: "Marco Andrei Kichalowsky",
+                    photo: "speakers/marcoandrei_200x200.jpg",
+                    bio: "Bacharel em Informática pela PUCRS e MBA em Marketing pela ESPM. Empresário, blogueiro e professor. É especialista em Marketing Digital, com experiência de mais de 15 anos na área.",
+                    company: "Ars Nova",
+                    link: {
+                        href: "https://twitter.com/marcoandrei",
+                        text: "@marcoandrei"
+                    },
+                    presentation: {
+                        title: "O papel dos profissionais de Informática no Marketing Digital",
+                        description: "Voltada para estudantes de computação, esta palestra descreve o que é o Marketing Digital, suas principais ferramentas e as carreiras e caminhos na área para profissionais com perfil técnico.",
+                        time: "19h00"
+                    }
+                },
+                {
+                    name: "Carolina Darski",
+                    photo: "speakers/carolinadarski_640x640.jpg",
+                    bio: "Especialista em desenvolvimento mobile e em computação na nuvem.",
+                    company: "SAP",
+                    link: {
+                        href: "https://twitter.com/kdarski",
+                        text: "@kdarski"
+                    },
+                    presentation: {
+                        title: "Internet das coisas com SAP Hana Cloud",
+                        //description: "",
+                        time: "19h30"
+                    }
+                },
+                {
+                    name: "Augusto",
+                    photo: "speakers/augusto_340x265.jpg",
+                    bio: "Gerente de Projetos da Kenta e co-Founder da Quefo.me.",
+                    company: "SAP",
+                    /*link: {
+                        href: "https://twitter.com/fernandofaga",
+                        text: ""
+                    },*/
+                    presentation: {
+                        title: "SAP Startup Focus: Acelerando Startups Brasileiras com SAP HANA™ ",
+                        description: "Coordenador do programa SAP Startup Focus para a região da América Latina. Jovem profissional e empreendedor, possui um título de Bacharel em Administração com ênfase em Gestão para Inovação e Liderança pela Unisinos (RS), ampla vivência internacional em países como Austrália, China e Coreia do Sul, e é um entusiasta dos temas de design thinking, lean startup e sistemas de inovação.",
+                        time: "20h15"
                     }
                 },
             ]
@@ -536,19 +458,14 @@ module.exports = {
     // List of Sponsors
     sponsors: [
       {
-        name: "GitHub",
-        logo: "sponsors/github_150x150.jpg",
-        url: "https://github.com"
+        name: "Altus S.A",
+        logo: "sponsors/altus_153x70.png",
+        url: "http://www.altus.com.br/"
       },
       {
-        name: "Caelum",
-        logo: "sponsors/caelum_150x150.png",
-        url: "http://www.caelum.com.br"
-      },
-      {
-        name: "Casa do Código",
-        logo: "sponsors/casadocodigo_150x150.jpg",
-        url: "http://www.casadocodigo.com.br"
+        name: "Ars Nova",
+        logo: "sponsors/arsnovasolucoes_424x114.png",
+        url: "http://arsnovasolucoes.com/"
       },
       {
         name: "PyTchê",
@@ -571,14 +488,14 @@ module.exports = {
         url: "http://quefo.me"
       },
       {
-        name: "getup",
-        logo: "sponsors/getup_203x117.png",
-        url: "http://getupcloud.com"
-      },
-      {
         name: "SAP",
         logo: "sponsors/sap_150x150.png",
         url: "http://www.sap.com/brazil/index.html"
+      },
+      {
+        name: "Mozila Brasil",
+        logo: "sponsors/mozilabrasil_215x235.png",
+        url: "http://www.mozillabrasil.org.br/"
       },
       {
         name: "ThoughtWorks",
