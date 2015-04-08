@@ -495,7 +495,7 @@ module.exports = {
       {
         name: "Mozila Brasil",
         logo: "sponsors/mozilabrasil_215x235.png",
-        url: "http://www.mozillabrasil.org.br/"
+        url: "http://www.altus.com.br/"
       },
       {
         name: "ThoughtWorks",
