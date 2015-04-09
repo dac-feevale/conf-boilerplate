@@ -82,7 +82,7 @@ module.exports = {
                 },
                 {
                     name: "Paulo Diovani",
-                    photo: "speakers/paulodiovani_150x150.jpg",
+                    photo: "speakers/paulodiovani_230x230.jpg",
                     bio: " Desenvolvedor na Codeminer42 e acadêmico de Tecnologia em Sistemas para Internet pela Universidade Feevale.",
                     company: "Codeminer42",
                     link: {
@@ -97,7 +97,7 @@ module.exports = {
                 },
                 {
                     name: "Matheus Azzi",
-                    photo: "speakers/matheusazzi_200x200.jpg",
+                    photo: "speakers/matheusazzi_222x222.jpg",
                     bio: "Developer na Codeminer42 e graduando em Ciência da Computação, trabalha com desenvolvimento web desde 2009",
                     company: "Codeminer42",
                     link: {
@@ -112,7 +112,7 @@ module.exports = {
                 },
                 {
                     name: "Dante Zaupa",
-                    photo: "speakers/dantezaupa_150x150.png",
+                    photo: "speakers/dantezaupa_150x150.jpg",
                     bio: "",
                     company: "PyTchê",
                     link: {
@@ -157,7 +157,7 @@ module.exports = {
                 },
                 {
                     name: "Matias Leidemer",
-                    photo: "speakers/matiasleidemer_640x640.png",
+                    photo: "speakers/matiasleidemer_640x640.jpg",
                     bio: "Programador desde 2005, passando desde Visual Basic até Oracle Forms. Se apaixonou quando conheceu Ruby em 2008, desde então, suas obsessões incluem desenvolver código limpo e de fácil manutenabilidade. Toma café, toma chimarrão e utiliza qualquer outra técnica aplicável para manter o foco e se manter produtivo.",
                     company: "Codeminer42",
                     link: {
@@ -244,7 +244,7 @@ module.exports = {
                     },
                     presentation: {
                         title: "Ferramentas de colaboração na web: análise da interação sob a perspectiva da presença social",
-                        description: "Pesquisas recentes reconhecem que a presença social é um conceito importante na educação online. As definições de presença social na educação online tendem a envolver o grau no qual uma pessoa é percebida como sendo “real” e como “estando lá”. As interações fortalecem a presença social, caracterizada pelo potencial de participação, envolvimento e visibilidade dos sujeitos, em relação a si, aos outros e ao meio. Além disso, os estudos apontam que a presença social é considerada um princípio relevante no projeto da comunicação mediada por computador e um determinante importante na formação de comunidades virtuais de aprendizagem (CVA). Nesta perspectiva, entende-se que a seleção de ambientes virtuais e de ferramentas para subsidiar os processos de educação online devem possibilitar a interação ativa entre os sujeitos, a fim de potencializar a formação de CVA. Esta apresentação discute diferentes conceitos sobre a presença social e apresenta os resultados parciais de um modelo para a análise de ferramentas web 2.0 sob a perspectiva da presença social .",
+                        description: "Pesquisas recentes reconhecem que a presença social é um conceito importante na educação online. As definições de presença social na educação online tendem a envolver o grau no qual uma pessoa é percebida como sendo 'real' e como 'estando lá'. As interações fortalecem a presença social, caracterizada pelo potencial de participação, envolvimento e visibilidade dos sujeitos, em relação a si, aos outros e ao meio. Além disso, os estudos apontam que a presença social é considerada um princípio relevante no projeto da comunicação mediada por computador e um determinante importante na formação de comunidades virtuais de aprendizagem (CVA). Nesta perspectiva, entende-se que a seleção de ambientes virtuais e de ferramentas para subsidiar os processos de educação online devem possibilitar a interação ativa entre os sujeitos, a fim de potencializar a formação de CVA. Esta apresentação discute diferentes conceitos sobre a presença social e apresenta os resultados parciais de um modelo para a análise de ferramentas web 2.0 sob a perspectiva da presença social .",
                         time: "19h30"
                     }
                 },
@@ -280,7 +280,7 @@ module.exports = {
                 },
                 {
                     name: "Adriana Neves dos Reis",
-                    photo: "speakers/adriananevesddosreis_200x200.jpg",
+                    photo: "speakers/adriananevesdosreis_165x165.jpg",
                     bio: "Professora da Feevale, atua como docente em cursos da área de informática e engenharia desde 2005, trabalhando principalmente nos seguintes temas: sistemas de informação, engenharia e qualidade de software, programação, e avaliação de desempenho de sistemas. Atualmente doutoranda em Engenharia de Produção e Sistemas, desenvolve pesquisas nas áreas de Controle Estatístico de Processos em Customização em Massa, Modelagem e Simulação de Agentes em contextos diversos, Gestão do Conhecimento em Sociotecnologia, e Gestão da Inovação e Mecanismos de Transferência Tecnológica.",
                     company: "Feevale",
                     link: {
@@ -417,11 +417,11 @@ module.exports = {
                 {
                     name: "Augusto",
                     photo: "speakers/augusto_340x265.jpg",
-                    bio: "Gerente de Projetos da Kenta e co-Founder da Quefo.me.",
+                    bio: "Augusto é o coordenador do programa SAP Startup Focus para a região da América Latina. Jovem profissional e empreendedor, possui um título de Bacharel em Administração com ênfase em Gestão para Inovação e Liderança pela Unisinos (RS), ampla vivência internacional em países como Austrália, China e Coreia do Sul, e é um entusiasta dos temas de design thinking, lean startup e sistemas de inovação.",
                     company: "SAP",
                     presentation: {
                         title: "SAP Startup Focus: Acelerando Startups Brasileiras com SAP HANA™ ",
-                        description: "Coordenador do programa SAP Startup Focus para a região da América Latina. Jovem profissional e empreendedor, possui um título de Bacharel em Administração com ênfase em Gestão para Inovação e Liderança pela Unisinos (RS), ampla vivência internacional em países como Austrália, China e Coreia do Sul, e é um entusiasta dos temas de design thinking, lean startup e sistemas de inovação.",
+                        description: "Augusto é o coordenador do programa SAP Startup Focus para a região da América Latina. Jovem profissional e empreendedor, possui um título de Bacharel em Administração com ênfase em Gestão para Inovação e Liderança pela Unisinos (RS), ampla vivência internacional em países como Austrália, China e Coreia do Sul, e é um entusiasta dos temas de design thinking, lean startup e sistemas de inovação.",
                         time: "20h15"
                     }
                 },
