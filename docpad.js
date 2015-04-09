@@ -22,7 +22,7 @@ module.exports = {
     // If you don't want this, just remove the callToAction property.
     callToAction: {
         text: "Clique aqui para se inscrever!",
-        link: "http://aplicweb.feevale.br/gerenciadorextensao/cursos.asp?codcurso=4320&TemplateDiferenciado=Site"
+        link: "http://www.feevale.br/Formularios/Formulario/semana-academica-icet-2015/identificacao"
     },
 
     // "Fork me on GitHub", if you don't want this, just remove the forkButton property
@@ -201,7 +201,7 @@ module.exports = {
                     },
                     presentation: {
                         title: "Introdução à Ruby, um coding dojo e uma API REST tudo ao mesmo tempo agora",
-                        description: "Nessa oficina teremos uma pequenina introdução à linguagem Ruby, sua história, características e sintaxe, logo depois um hands-on em formato de coding dojo para desenvolver em tempo recorde uma API servindo JSON usando o micro framework Sinatra. O objetivo é proporcionar a todos uma experiência divertida com Ruby, testes unitários e um problema "real", venha conhecer ou aperfeiçoar seus conhecimentos e de quebra ter seu próprio backend pronto!",
+                        description: "Nessa oficina teremos uma pequenina introdução à linguagem Ruby, sua história, características e sintaxe, logo depois um hands-on em formato de coding dojo para desenvolver em tempo recorde uma API servindo JSON usando o micro framework Sinatra. O objetivo é proporcionar a todos uma experiência divertida com Ruby, testes unitários e um problema 'real', venha conhecer ou aperfeiçoar seus conhecimentos e de quebra ter seu próprio backend pronto!",
                         time: "18h30"
                     }
                 },
@@ -229,7 +229,7 @@ module.exports = {
                     },
                     presentation: {
                         title: "Construa um aplicativo para todas as plataformas, em 2 horas",
-                        description: "Visando agilidade no desenvolvimento de aplicações mobile, será apresentada o framework Phonegap, o qual permite o desenvolvimento para multiplas plataformas à partir do uso de HTML, CSS e JavaScript. Em duas horas de "mão na massa" será possível ter uma aplicação funcional e o conhecimento das mais variadas ferramentas para desenvolver a sua aplicação mobile. Recomendável conhecimento básico em desenvolvimento web (html, css e javascript)",
+                        description: "Visando agilidade no desenvolvimento de aplicações mobile, será apresentada o framework Phonegap, o qual permite o desenvolvimento para multiplas plataformas à partir do uso de HTML, CSS e JavaScript. Em duas horas de 'mão na massa' será possível ter uma aplicação funcional e o conhecimento das mais variadas ferramentas para desenvolver a sua aplicação mobile. Recomendável conhecimento básico em desenvolvimento web (html, css e javascript)",
                         time: "19h30"
                     }
                 },
@@ -251,7 +251,7 @@ module.exports = {
                 {
                     name: "Cynthia Zanoni",
                     photo: "speakers/cynthiazanoni_500x500.jpg",
-                    bio: "",
+                    //bio: "",
                     company: "Think Digital",
                     link: {
                         href: "https://twitter.com/cynthia_zanoni",
@@ -329,35 +329,13 @@ module.exports = {
                     }
                 },
                 {
-                    name: "Joao Mossmann",
-                    photo: "speakers/joaomossmann_160x160.jpg",
-                    bio: "Doutorando e membro do grupo de Pesquisa em Tecnologia Aplicada à Educação da UFRGS, Mestre em Ciência da Computação pela PUCRS – na linha de Realidade Virtual, Bacharel em Ciência da Computação pela Universidade Feevale.  Atua como docente nos cursos de Ciência da Computação e do Curso Superior de Tecnologia em Jogos Digitais. Tem experiência profissional na área de Ciência da Computação e desenvolvimento de Jogos Digitais. Na pesquisa científica, têm como principal objeto de estudo o desenvolvimento de Jogos Digitais e sua aplicação em diferentes contextos.",
-                    company: "Feevale",
-                    presentation: {
-                        title: "Jogos Digitais e suas Aplicações",
-                        description: "Apresentar as diferentes aplicações dos jogos digitais. A palestra demonstra exemplos de jogos produzidos na Universidade Feevale. Em seguida, oportuniza um espaço para discussão sobre os desafios da área e as oportunidades para os acadêmicos.",
-                        time: "19h30"
-                    }
-                },
-                {
                     name: "Marta Bez",
                     photo: "speakers/martabez_250x250.jpg",
                     bio: "Doutora em Informática na Educação pela UFRGS. Professora dos cursos de Ciência da Computação e Sistemas de Informações e do Mestrado em Indústria Criativa na Universidade Feevale. Coordenadora do CAS e participante ativa do LOA.",
                     company: "Feevale",
                     presentation: {
                         title: "Tecnologias na área da saúde",
-                        description: "O encontro visa apresentar e discutir novas tecnologias aplicadas na área da saúde. Serão apresentados os trabalhos desenvolvidos pelo grupo CAS - Computação Aplicada a Saúde e possibilidades dos alunos se inserirem nesta área que está despontando como uma das mais promissoras em termos tecnológicos.",
-                        time: "19h30"
-                    }
-                }, /*PAREI AKI*/
-                {
-                    name: "Ânderson Schuh",
-                    photo: "speakers/andersonschuh_150x150.jpg",
-                    bio: "Bacharel em Ciência da Computação pela Univerdade Feevale. Atualmente pesquisa sobre Interfaces Cérebro-Computador.",
-                    company: "Feevale",
-                    presentation: {
-                        title: "Introdução às Interfaces Cérebro-Computador.",
-                        description: "Em conjunto à palestra ministrada pela Doutora Marta Bez, irá complementanr o tema Tecnologias na área da Saúde. ",
+                        description: "O encontro visa apresentar e discutir novas tecnologias aplicadas na área da saúde. Serão apresentados os trabalhos desenvolvidos pelo grupo CAS - Computação Aplicada a Saúde e possibilidades dos alunos se inserirem nesta área que está despontando como uma das mais promissoras em termos tecnológicos. Com a presença de Joao Mossmann e Anderson Schuh. ",
                         time: "19h30"
                     }
                 },
@@ -441,10 +419,6 @@ module.exports = {
                     photo: "speakers/augusto_340x265.jpg",
                     bio: "Gerente de Projetos da Kenta e co-Founder da Quefo.me.",
                     company: "SAP",
-                    /*link: {
-                        href: "https://twitter.com/fernandofaga",
-                        text: ""
-                    },*/
                     presentation: {
                         title: "SAP Startup Focus: Acelerando Startups Brasileiras com SAP HANA™ ",
                         description: "Coordenador do programa SAP Startup Focus para a região da América Latina. Jovem profissional e empreendedor, possui um título de Bacharel em Administração com ênfase em Gestão para Inovação e Liderança pela Unisinos (RS), ampla vivência internacional em países como Austrália, China e Coreia do Sul, e é um entusiasta dos temas de design thinking, lean startup e sistemas de inovação.",
@@ -521,6 +495,6 @@ module.exports = {
     // Theme path
     getTheme: function() {
       return "themes/" + this.site.theme;
-    }
+    }   
   }
 };
